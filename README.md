@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eder-xavier&show_icons=true&theme=light&bg_color=f5f5dc&text_color=0366d6&icon_color=0366d6&title_color=0366d6" />
 </picture>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eder-xavier&size_weight=0.5&count_weight=0.5)
 
 
 
