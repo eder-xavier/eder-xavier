@@ -1,11 +1,13 @@
 ### Éder here.
 
 - ☘️ Dev Full stack.
-- 📜 Studing Assembly.
+- 📜 Studing Assembly and Julia.
 
 <div style="display: flex"> 
 
-<img width="300px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eder-xavier&size_weight=1&count_weight=0.5&bg_color=0D1117" /> 
+<img width="300px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eder-xavier&layout=compact&size_weight=1&count_weight=0.5&bg_color=0D1117" /> 
+
+<br>
 
 <!--
 <picture width="300px">
@@ -26,7 +28,7 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
 <div style="display: flex"> 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
