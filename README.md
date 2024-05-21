@@ -12,10 +12,10 @@
     srcset="https://github-readme-stats.vercel.app/api?username=eder-xavier&show_icons=true&theme=light&include_all_commits=true&private_count=true&bg_color=f5f5dc&text_color=0366d6&icon_color=0366d6&title_color=0366d6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=eder-xavier&show_icons=true&theme=light&bg_color=f5f5dc&text_color=0366d6&icon_color=0366d6&title_color=0366d6&size_weight=1" />
+  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=eder-xavier&show_icons=true&theme=light&bg_color=f5f5dc&text_color=0366d6&icon_color=0366d6&title_color=0366d6&size_weight=1" />
 </picture>
 
-<img width="160em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eder-xavier&size_weight=1&count_weight=0.5&bg_color=0D1117" /> 
+<img width="300em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eder-xavier&size_weight=1&count_weight=0.5&bg_color=0D1117" /> 
 
 
 
