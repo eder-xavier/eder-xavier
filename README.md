@@ -3,12 +3,6 @@
 - ☘️ Dev Full stack.
 - 📜 Studing Assembly.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Custom GitHub Stats</title>
   <style>
     body {
       background-color: #f5f5dc; /* Bege */
@@ -44,21 +38,17 @@
       }
     }
   </style>
-</head>
-<body>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&bg_color=blue&text_color=white&icon_color=white"
+      srcset="https://github-readme-stats.vercel.app/api?username=eder-xavier&show_icons=true&theme=dark&bg_color=blue&text_color=white&icon_color=white"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=light&bg_color=white&text_color=blue&icon_color=blue"
+      srcset="https://github-readme-stats.vercel.app/api?username=eder-xavier&show_icons=true&theme=light&bg_color=white&text_color=blue&icon_color=blue"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=white&text_color=blue&icon_color=blue" />
+    <img src="https://github-readme-stats.vercel.app/api?username=eder-xavier&show_icons=true&bg_color=white&text_color=blue&icon_color=blue" />
   </picture>
-</body>
-</html>
 
 
 
