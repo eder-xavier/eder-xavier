@@ -3,6 +3,8 @@
 - ☘️ Dev Full stack.
 - 📜 Studing Assembly and Julia.
 
+<br>
+
 <div style="display: flex"> 
 
 <img width="300px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eder-xavier&layout=compact&size_weight=1&count_weight=0.5&bg_color=0D1117" /> 
