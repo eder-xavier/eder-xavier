@@ -7,7 +7,6 @@
 
 <img width="300px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=eder-xavier&layout=compact&size_weight=1&count_weight=0.5&bg_color=0D1117" /> 
 
-<br>
 
 <!--
 <picture width="300px">
@@ -24,6 +23,8 @@
 -->
 
 </div>
+
+<br>
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
