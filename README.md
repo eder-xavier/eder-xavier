@@ -16,7 +16,7 @@
 </picture>
 
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=eder-xavier&size_weight=1&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eder-xavier&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
